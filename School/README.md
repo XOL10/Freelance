@@ -1,1 +1,0 @@
-This files are just for school projects.
